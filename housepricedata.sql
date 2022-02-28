@@ -1,7 +1,7 @@
 CREATE TABLE housedb.housepricedata (
 
   S_no int,
-  Price INT NOT NULL,
+  Price INT NOT NULL,,
   Area INT NOT NULL,
   Location VARCHAR(45) NOT NULL,
   Number_of_bedroom INT NOT NULL,
